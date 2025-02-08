@@ -1,3 +1,5 @@
+lib/
+
 # Compiler files
 cache/
 out/
@@ -12,3 +14,6 @@ docs/
 
 # Dotenv file
 .env
+
+test/fuzz/OpenInvariantsTest.t.sol
+debug_report.txt
