@@ -125,3 +125,5 @@ src/
 ## License
 
 This project is licensed under the MIT License.
+
+![Screenshot](./images/flowchart_dsce.png)
